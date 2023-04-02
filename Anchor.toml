@@ -2,7 +2,8 @@
 seeds = false
 skip-lint = false
 [programs.localnet]
-gif_list = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+gif_list = "7hfWPsdmi52vhUTpcMGXGt6sXnrYorCuc5Pxj61mNNML"
+gif_list_admin = "9ZZFLXSdUMYcec7jj87AQWTr53VvALN36cVMTiohiKU"
 
 [registry]
 url = "https://api.apr.dev"
